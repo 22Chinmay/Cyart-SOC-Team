@@ -1,0 +1,5 @@
+A simulated attack was conducted using a Samba exploitation scenario mapped to MITRE ATT&CK technique T1210 (Exploitation of Remote Services). The attack originated from IP address 192.168.1.102 and was successfully detected by Wazuh. The alert indicated a potential exploitation attempt targeting vulnerable services.
+
+The SOC team performed triage and identified the activity as a high-priority threat. Response actions included isolating the affected system and monitoring network traffic for further anomalies. Analysis confirmed that the attack was contained without system compromise.
+
+This exercise demonstrates the effectiveness of SOC monitoring tools in detecting and responding to exploitation attempts. However, continuous tuning of detection rules and proactive vulnerability management are recommended to strengthen security posture.

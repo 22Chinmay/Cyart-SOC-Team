@@ -1,0 +1,2 @@
+Metasploit exploit attempt detected: Samba usermap_script from 192.168.1.102
+Wazuh Alert: Possible Samba Exploit (T1210) detected from 192.168.1.102
