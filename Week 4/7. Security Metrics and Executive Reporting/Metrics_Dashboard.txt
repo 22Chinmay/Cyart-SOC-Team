@@ -1,0 +1,7 @@
+SOC Metrics Dashboard (Elastic Security)
+
+Mean Time to Detect (MTTD): 2 hours
+Mean Time to Respond (MTTR): 4 hours
+False Positive Rate: 10%
+
+The dashboard visualizes detection and response efficiency. MTTD reflects the time taken to identify threats, while MTTR measures response time. The false positive rate indicates alert accuracy and helps in tuning detection rules.

@@ -1,0 +1,1 @@
+The dwell time for the simulated incident was calculated as 6 hours, combining detection and response durations. This indicates that while detection was timely, response efforts can be improved. Reducing dwell time is critical to minimizing potential damage and improving overall security posture.
