@@ -1,22 +1,31 @@
-# Week 4 – SOC Tasks (1–8)
+# Week 4 – SOC Lab Tasks (1–8)
 
-This folder contains all SOC lab tasks from 1 to 8.
+## Overview
+This folder contains all SOC lab tasks from Task 1 to Task 8. Each task is organized in separate folders with supporting documentation, logs, and reports.
 
-Each folder includes:
-- Logs
-- Reports
-- Screenshots
-- Analysis
+## Structure
+- 1. Threat Hunting Practice
+- 2. SOAR playbook
+- 3. Post-Incident Analysis
+- 4. Alert Triage with Automation
+- 5. Evidence Analysis
+- 6. Adversary Emulation Practice
+- 7. Security Metrics and Executive Reporting
+- 8. Capstone Project Comprehensive SOC Incident Response
 
-## Tasks Covered
-1. Threat Hunting  
-2. SOAR Playbook  
-3. Post-Incident Analysis  
-4. Alert Triage  
-5. Evidence Analysis  
-6. Adversary Emulation  
-7. Security Metrics  
-8. Capstone Incident Response  
+## Files Included
+- Final report.pdf (combined report)
+- All ScreenShots.pdf (all screenshots)
 
-## Outcome
-This project demonstrates complete SOC workflow including detection, response, automation, and reporting using real-world tools and MITRE ATT&CK framework.
+## Workflow Summary
+1. Performed threat hunting and log analysis.
+2. Developed SOAR playbook and automated response.
+3. Conducted incident analysis and calculated metrics.
+4. Triaged alerts using threat intelligence.
+5. Analyzed evidence and maintained chain-of-custody.
+6. Simulated adversary techniques (MITRE ATT&CK).
+7. Created SOC metrics and executive reporting.
+8. Executed full incident response lifecycle (capstone).
+
+## Conclusion
+This project demonstrates end-to-end SOC operations including detection, analysis, response, automation, and reporting using industry-standard tools and MITRE ATT&CK framework.
