@@ -1,0 +1,2 @@
+Spearphishing email detected from attacker@malicious.com with attachment invoice.exe
+Wazuh Alert: Suspicious email attachment detected - invoice.exe (T1566)

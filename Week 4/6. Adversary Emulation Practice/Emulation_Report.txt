@@ -1,0 +1,11 @@
+Adversary emulation was conducted using a simulated spearphishing attack mapped to MITRE ATT&CK technique T1566.
+
+A phishing email containing a malicious attachment was generated, and Wazuh successfully detected the suspicious activity.
+
+The alert indicated the presence of a potentially harmful file, demonstrating effective detection capabilities.
+
+However, the simulation highlights the need for enhanced email filtering and user awareness to prevent initial access.
+
+While detection mechanisms were effective, proactive prevention measures should be improved.
+
+This exercise confirms that SOC monitoring tools can identify phishing attempts but require continuous tuning to reduce false positives and improve response efficiency.

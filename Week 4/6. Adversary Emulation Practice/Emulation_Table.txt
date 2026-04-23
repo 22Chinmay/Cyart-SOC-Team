@@ -1,0 +1,4 @@
+Timestamp: 2026-04-24 03:30:00
+TTP: T1566
+Detection Status: Detected
+Notes: Phishing email blocked
